@@ -1,21 +1,54 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I’m Vikas 👋  <br>B.Tech student and aspiring software engineer focused on backend development and problem-solving.  <br>I work with Java, Javascript, Node.js, Express, MongoDB, and APIs and actively practice Data Structures and Algorithms to build strong fundamentals.  <br>I prefer learning by building real projects and solving problems with clear logic.<br>
 
+Hi, I’m **Vikas** 👋
+I’m a **Data Analyst–focused B.Tech undergraduate** with hands-on experience in **SQL, Python, Excel, and Power BI**. I’ve worked with real-world datasets during my internship at **IBM SkillsBuild**, where I focused on **data cleaning, exploratory data analysis (EDA), trend identification, and dashboarding** to support data-driven decision-making.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-singh2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikaskumar79112@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/zebroVikas/)
+Alongside analytics, I have a strong foundation in **Java, Object-Oriented Programming, and Data Structures**, and I’m **actively learning Java-based backend development (Spring Boot)** to understand how data flows through APIs and databases.
 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikas79112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikas79112&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas79112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I prefer learning by **working with real data, building analytical projects, and solving problems with clear logic**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vikas79112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/vikas-singh2002)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vikaskumar79112@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=black)](https://leetcode.com/u/zebroVikas)
+
+---
+
+# 💻 Tech Stack:
+
+### 📊 Data Analytics
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+### ☕ Programming & Backend (Learning)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=vikas79112\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vikas79112\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas79112\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=vikas79112\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+---
