@@ -3,9 +3,9 @@
 # 💫 About Me:
 
 Hi, I’m **Vikas** 👋
-I’m a **Data Analyst–focused B.Tech undergraduate** with hands-on experience in **SQL, Python, Excel, and Power BI**. I’ve worked with real-world datasets during my internship at **IBM SkillsBuild**, where I focused on **data cleaning, exploratory data analysis (EDA), trend identification, and dashboarding** to support data-driven decision-making.
+I’m a **B.Tech undergraduate** with hands-on experience in **SQL, Python, Excel, and Power BI**. I’ve worked with real-world datasets during my internship at **IBM SkillsBuild**, where I focused on **data cleaning, exploratory data analysis (EDA), trend identification, and dashboarding** to support data-driven decision-making.
 
-Alongside analytics, I have a strong foundation in **Java, Object-Oriented Programming, and Data Structures**, and I’m **actively learning Java-based backend development (Spring Boot)** to understand how data flows through APIs and databases.
+Alongside analytics, I have a strong foundation in **Java, Object-Oriented Programming,Statistics and Data Structures**, and I’m **actively learning backend development** to understand how data flows through APIs and databases.
 
 I prefer learning by **working with real data, building analytical projects, and solving problems with clear logic**.
 
