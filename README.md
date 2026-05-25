@@ -48,7 +48,6 @@ Software Developer focused on building scalable full-stack applications using Ja
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/zebroVikas)
 
 ---
-
 ## 📊 My GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=vikas79112&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
