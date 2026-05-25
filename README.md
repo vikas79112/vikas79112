@@ -1,7 +1,7 @@
 # ## Hi there 👋 I'm Vikas
 
 ### 🚀 Software Developer & GenAI Enthusiast
-I am  specialized in **Backend Engineering** and **Generative AI**. I bridge the gap between robust data structures and modern AI solutions, building applications that solve real-world problems with **Java, Spring Boot, and LLMs**.
+Software Developer focused on building scalable full-stack applications using Java, Spring Boot, React, and SQL. Experienced in developing REST APIs, authentication systems, real-time expense management platforms, and AI-integrated applications. Strong foundation in DSA, OOP, DBMS, and backend system design.
 
 ---
 
