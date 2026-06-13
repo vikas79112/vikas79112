@@ -62,51 +62,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌍 TripSync
-
-**Collaborative Expense Management Platform**
-
-**Tech Stack:** React.js, Spring Boot, PostgreSQL, JWT, Docker
-
-- Built a collaborative expense management web application
-- Implemented secure JWT authentication and authorization
-- Added real-time expense synchronization using WebSockets
-- Enabled offline-first support using IndexedDB (Dexie.js)
-- Developed automated settlement logic for debt calculations
-- Dockerized backend and deployed using Render & Vercel
-
-### 🤖 AI Email Assistant
-
-**AI-Powered Gmail Reply Generator**
-
-**Tech Stack:** Java, Spring Boot, Gemini API, Docker, Chrome Extension
-
-- Developed REST APIs for AI-generated email replies
-- Integrated Google Gemini API using prompt engineering
-- Built Chrome Extension for Gmail integration
-- Connected Gmail UI with backend services
-- Implemented validation and secure API communication
-- Containerized and deployed using Docker
-
----
-
 ## 📊 Coding Profiles
 
 - 🏆 LeetCode: 300+ Problems Solved
 - ⚡ Codeforces: 90+ Problems Solved
 - 📚 Active DSA Learner
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vikas79112&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas79112&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=vikas79112&theme=tokyonight)
 
 ---
 
